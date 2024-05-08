@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*.json$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /*.ico$
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.mp4$

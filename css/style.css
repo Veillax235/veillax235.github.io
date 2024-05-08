@@ -1,0 +1,13 @@
+.container {
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dark {
+    background-color: #17141F !important;
+    color: #ADB5BD !important;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.2)
+}
